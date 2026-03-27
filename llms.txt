@@ -1,0 +1,24 @@
+# bankruptcymill.com
+
+> The Bankruptcy Mill Problem: By the Numbers. Data-driven investigation into high-volume bankruptcy firms and their measurable impact on client outcomes.
+
+This site presents national statistics from the FJC Integrated Database and public PACER records covering 4.9 million federal bankruptcy cases across all 94 districts. It examines the economic model behind bankruptcy mills, the data showing their impact, the regulatory gaps that allow them to persist, and the real cost of failed cases.
+
+## Pages
+- / -- The Bankruptcy Mill Problem: By the Numbers (overview with national statistics)
+- /the-exposed-model.html -- How Bankruptcy Mills Make Money (economic model and perverse incentives)
+- /by-the-numbers.html -- Bankruptcy Mill Statistics (dismissal rates, caseload vs outcome, fee patterns)
+- /enforcement-gap.html -- Why Nobody Stops Them (regulatory failure and enforcement gaps)
+- /cost-of-failure.html -- What a Failed Bankruptcy Case Really Costs (human and financial toll)
+
+## Related Sites
+- https://bankruptcymill.org -- Consumer education: warning signs, what to do, find a lawyer
+- https://1328f.com -- Free bankruptcy discharge screener
+- https://1328f.org -- Research platform and empirical data
+- https://github.com/ilikemath9999/bankruptcy-discharge-screener -- Open source code
+
+## About
+Part of the Bankruptcy Transparency Network. Free, open-source bankruptcy data journalism. Not legal advice.
+
+## Contact
+- Ko-fi: https://ko-fi.com/ilikemath9999

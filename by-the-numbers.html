@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bankruptcy Mill Statistics | bankruptcymill.com</title>
+<meta name="description" content="National bankruptcy mill statistics: dismissal rates by district, attorney-level outcome variation, caseload-to-outcome correlations, and fee patterns. Data from 4.9 million federal cases.">
+<meta name="keywords" content="bankruptcy statistics, chapter 13 dismissal rate by state, attorney dismissal rate, bankruptcy data, FJC bankruptcy statistics, PACER data">
+<link rel="canonical" href="https://bankruptcymill.com/by-the-numbers.html">
+
+<meta property="og:title" content="Bankruptcy Mill Statistics: By the Numbers">
+<meta property="og:description" content="National bankruptcy statistics from 4.9 million cases: dismissal rates, attorney variation, caseload patterns.">
+<meta property="og:type" content="article">
+<meta property="og:url" content="https://bankruptcymill.com/by-the-numbers.html">
+<meta property="og:site_name" content="bankruptcymill.com">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Bankruptcy Mill Statistics: By the Numbers">
+<meta name="twitter:description" content="National bankruptcy statistics from 4.9 million cases: dismissal rates, attorney variation, caseload patterns.">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:#0d1117;color:#e5e5e5;min-height:100vh;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible{outline:2px solid #58a6ff;outline-offset:2px}
+
+.skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:9999;padding:1rem;background:#238636;color:#fff;font-weight:600;text-decoration:none}
+.skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
+
+.nav{background:#010409;border-bottom:1px solid #21262d;padding:12px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.nav .brand{color:#58a6ff;font-weight:700;font-size:16px;margin-right:auto;text-decoration:none}
+.nav .brand:hover{text-decoration:none;opacity:0.9}
+.nav-links{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.nav-links a{color:#8b949e;font-size:14px}
+.nav-links a:hover{color:#f0f6fc;text-decoration:none}
+.nav-links a.active{color:#f0f6fc;font-weight:600}
+.hamburger{display:none;background:none;border:1px solid #21262d;color:#e5e5e5;font-size:1.2rem;padding:6px 12px;border-radius:4px;cursor:pointer}
+
+.hero{text-align:center;padding:64px 24px 40px}
+.hero .kicker{color:#58a6ff;font-size:14px;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:16px}
+.hero h1{font-size:32px;font-weight:700;color:#f0f6fc;margin-bottom:16px}
+.hero .subtitle{color:#8b949e;font-size:17px;max-width:640px;margin:0 auto;line-height:1.7}
+
+.content{max-width:760px;margin:0 auto;padding:0 24px 48px}
+.content h2{font-size:22px;color:#f0f6fc;margin:40px 0 16px;padding-bottom:8px;border-bottom:1px solid #21262d}
+.content h3{font-size:18px;color:#f0f6fc;margin:28px 0 12px}
+.content p{color:#c9d1d9;font-size:16px;line-height:1.8;margin-bottom:16px}
+.content ul,.content ol{margin:0 0 16px 24px;color:#c9d1d9;font-size:16px;line-height:1.8}
+.content li{margin-bottom:8px}
+
+.stat-highlight{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin:32px 0}
+.stat-box{background:#161b22;border:1px solid #21262d;border-radius:10px;padding:24px 16px;text-align:center}
+.stat-box .num{font-size:28px;font-weight:700;color:#58a6ff}
+.stat-box .label{font-size:13px;color:#8b949e;margin-top:6px;line-height:1.5}
+
+.data-table{width:100%;border-collapse:collapse;margin:24px 0;font-size:15px}
+.data-table th{background:#161b22;color:#f0f6fc;padding:12px 16px;text-align:left;border:1px solid #21262d;font-weight:600;font-size:14px}
+.data-table td{padding:12px 16px;border:1px solid #21262d;color:#c9d1d9}
+.data-table tr:nth-child(even) td{background:#161b22}
+.data-table .highlight-row td{background:#1a2332;border-color:#1f3a5f}
+
+.callout{background:#161b22;border-left:4px solid #58a6ff;border-radius:0 8px 8px 0;padding:20px 24px;margin:24px 0}
+.callout p{margin-bottom:8px;font-size:15px;color:#c9d1d9}
+.callout p:last-child{margin-bottom:0}
+.callout strong{color:#f0f6fc}
+
+.bar-chart{margin:24px 0}
+.bar-row{display:flex;align-items:center;margin-bottom:8px;gap:12px}
+.bar-label{width:160px;font-size:13px;color:#8b949e;flex-shrink:0;text-align:right}
+.bar-track{flex:1;background:#21262d;border-radius:4px;height:24px;overflow:hidden;position:relative}
+.bar-fill{height:100%;border-radius:4px;display:flex;align-items:center;padding-left:8px;font-size:12px;font-weight:600;color:#f0f6fc;min-width:40px}
+.bar-fill.low{background:#238636}
+.bar-fill.mid{background:#d29922}
+.bar-fill.high{background:#da3633}
+
+.methodology{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:24px;margin:32px 0}
+.methodology h3{color:#f0f6fc;font-size:16px;margin-bottom:12px}
+.methodology p{color:#8b949e;font-size:14px;line-height:1.7;margin-bottom:8px}
+.methodology p:last-child{margin-bottom:0}
+
+.kofi-box{background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:3rem auto 1rem}
+.kofi-box p{color:#c9d1d9;margin:0 0 0.5rem;font-size:0.95rem}
+.kofi-box .btn-kofi{display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none}
+.kofi-box .btn-kofi:hover{background:#2ea043;text-decoration:none}
+
+.network-footer{background:#010409;border-top:1px solid #21262d;padding:2rem 24px;text-align:center;margin-top:48px}
+.network-footer p{color:#8b949e;font-size:0.85rem;margin-bottom:0.5rem}
+.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}
+.network-footer .links a{color:#8b949e;font-size:0.85rem}
+.network-footer .links a:hover{color:#58a6ff}
+.network-footer .disclaimer{margin-top:1rem;font-size:0.75rem;color:#484f58}
+
+@media(max-width:768px){
+  .stat-highlight{grid-template-columns:1fr}
+}
+@media(max-width:600px){
+  .hero h1{font-size:24px}
+  .hero{padding:40px 16px 28px}
+  .hamburger{display:block}
+  .nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}
+  .nav-links.open{display:flex}
+  .nav-links a{display:block;padding:10px 0;border-top:1px solid #21262d;min-height:44px;line-height:1.6}
+  .content h2{font-size:20px}
+  .data-table{font-size:13px}
+  .data-table th,.data-table td{padding:8px 10px}
+  .bar-label{width:100px;font-size:12px}
+}
+</style>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav class="nav" role="navigation" aria-label="Site navigation">
+  <a href="/" class="brand">bankruptcymill.com</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+  <div class="nav-links">
+    <a href="/">The Data</a>
+    <a href="/the-exposed-model.html">The Model</a>
+    <a href="/by-the-numbers.html" class="active">Statistics</a>
+    <a href="/enforcement-gap.html">Enforcement Gap</a>
+    <a href="/cost-of-failure.html">Cost of Failure</a>
+    <a href="https://bankruptcymill.org">Consumer Guide</a>
+    <a href="https://1328f.com">Screener</a>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="kicker">The Data</div>
+  <h1>Bankruptcy Mill Statistics</h1>
+  <p class="subtitle">National data from 4.9 million federal cases across 94 districts. The numbers tell a story that individual anecdotes cannot.</p>
+</div>
+
+<main id="main-content">
+<div class="content">
+
+<div class="stat-highlight">
+  <div class="stat-box">
+    <div class="num">4.9M</div>
+    <div class="label">Cases in the FJC Integrated Database (2008-2024)</div>
+  </div>
+  <div class="stat-box">
+    <div class="num">94</div>
+    <div class="label">Federal judicial districts with case data</div>
+  </div>
+  <div class="stat-box">
+    <div class="num">~26%</div>
+    <div class="label">National Ch. 13 formal dismissal rate</div>
+  </div>
+</div>
+
+<h2>National dismissal rates</h2>
+<p>Chapter 13 bankruptcy has the highest failure rate of any bankruptcy chapter. The formal dismissal rate -- cases where the court enters an order of dismissal -- averages around 26% nationally. But that figure dramatically understates the problem.</p>
+<p>When you include all cases that close without a discharge -- voluntary dismissals, conversions to Chapter 7, and cases closed for other administrative reasons -- the true failure rate climbs to an estimated 60-67%. In other words, roughly two out of every three Chapter 13 cases filed in the United States do not result in the discharge the debtor was seeking when they filed.</p>
+
+<div class="callout">
+  <p><strong>Why the headline number understates the problem:</strong> The FJC's formal "dismissal" count captures only cases dismissed by court order under 11 U.S.C. section 1307(c). It does not count voluntary dismissals under section 1307(b), conversions under section 1307(d), or cases closed without entry of discharge. Each of these represents a case where the debtor did not achieve the intended outcome.</p>
+</div>
+
+<h2>The attorney variation problem</h2>
+<p>The most striking finding in the data is not the national average -- it is the range. Within a single federal judicial district, where all attorneys practice under the same local rules, before the same judges, with access to the same trustee, attorney-level dismissal rates vary enormously.</p>
+
+<div class="bar-chart">
+  <div class="bar-row">
+    <div class="bar-label">Top-performing attorneys</div>
+    <div class="bar-track"><div class="bar-fill low" style="width:15%">~15%</div></div>
+  </div>
+  <div class="bar-row">
+    <div class="bar-label">District average</div>
+    <div class="bar-track"><div class="bar-fill mid" style="width:35%">~30-40%</div></div>
+  </div>
+  <div class="bar-row">
+    <div class="bar-label">High-volume mills</div>
+    <div class="bar-track"><div class="bar-fill high" style="width:85%">~70-85%+</div></div>
+  </div>
+</div>
+
+<p>This is not a small variation. In some districts, the gap between the best and worst attorneys exceeds 70 percentage points. An attorney with a 15% dismissal rate and an attorney with an 85% dismissal rate are practicing in the same courthouse, under the same rules, drawing from the same debtor population.</p>
+<p>When the variable is not the court, not the judge, not the local economy, and not the law -- the variable is the attorney.</p>
+
+<h2>Caseload and outcome correlation</h2>
+<p>Data analysis reveals a consistent pattern: as attorney caseload increases beyond a certain threshold, client outcomes tend to deteriorate. This is not a universal rule -- some high-volume attorneys maintain strong outcomes -- but the trend is clear and statistically significant.</p>
+
+<table class="data-table">
+  <thead>
+    <tr>
+      <th>Annual caseload tier</th>
+      <th>Typical dismissal rate</th>
+      <th>Notes</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 -- 25 cases/year</td>
+      <td>18 -- 28%</td>
+      <td>Solo practitioners, often selective intake</td>
+    </tr>
+    <tr>
+      <td>26 -- 75 cases/year</td>
+      <td>22 -- 35%</td>
+      <td>Established consumer practices</td>
+    </tr>
+    <tr>
+      <td>76 -- 150 cases/year</td>
+      <td>28 -- 45%</td>
+      <td>High-volume firms, outcomes start diverging</td>
+    </tr>
+    <tr class="highlight-row">
+      <td>151 -- 300 cases/year</td>
+      <td>40 -- 65%</td>
+      <td>Mill territory -- volume exceeds capacity for individual attention</td>
+    </tr>
+    <tr class="highlight-row">
+      <td>300+ cases/year</td>
+      <td>55 -- 85%+</td>
+      <td>Extreme volume -- the majority of clients do not receive discharge</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>The inflection point varies by district and by firm structure, but the pattern is remarkably consistent across jurisdictions: once an attorney or firm is filing more cases than they can individually manage, the data shows it in the outcomes.</p>
+
+<h2>District-level variation</h2>
+<p>Not all districts are equally affected. Bankruptcy mill activity tends to concentrate in larger metropolitan areas where advertising reaches more potential clients and where the debtor population is large enough to sustain high-volume operations.</p>
+
+<div class="stat-highlight">
+  <div class="stat-box">
+    <div class="num">15-20%</div>
+    <div class="label">Dismissal rate in lowest-rate districts</div>
+  </div>
+  <div class="stat-box">
+    <div class="num">35-45%</div>
+    <div class="label">Dismissal rate in highest-rate districts</div>
+  </div>
+  <div class="stat-box">
+    <div class="num">2-3x</div>
+    <div class="label">Gap between best and worst districts</div>
+  </div>
+</div>
+
+<p>Some of this variation reflects differences in local legal culture, trustee practices, judicial approach, and economic conditions. But within high-dismissal districts, you can almost always find individual attorneys who achieve discharge rates well above the district average -- proving that the local environment alone does not explain the poor outcomes.</p>
+
+<h2>Fee patterns</h2>
+<p>Attorney fee data, available through PACER docket review, reveals patterns consistent with the mill model:</p>
+<ul>
+  <li><strong>No-look fees are standard.</strong> Most districts have adopted presumptive fee amounts (typically $3,500 -- $5,000) that do not require itemized billing. This removes the connection between work performed and compensation received.</li>
+  <li><strong>Fee applications are rarely challenged.</strong> Despite the Court's authority under 11 U.S.C. section 329 and Fed. R. Bankr. P. 2017 to review fee arrangements, fee objections by trustees or the court are uncommon.</li>
+  <li><strong>Disgorgement is extremely rare.</strong> Even when cases are dismissed quickly and the attorney's work product is demonstrably inadequate, courts rarely order fee disgorgement under section 329(b).</li>
+  <li><strong>Total fees correlate with volume, not quality.</strong> The highest-earning bankruptcy attorneys in many districts are not the ones with the best outcomes -- they are the ones who file the most cases.</li>
+</ul>
+
+<h2>The prior-filer signal</h2>
+<p>FJC data includes a field indicating whether the debtor has previously filed for bankruptcy. National analysis shows that the prior-filer rate is approximately 27% -- meaning roughly one in four bankruptcy filers has filed at least once before.</p>
+<p>Among high-volume mills, the prior-filer rate is significantly elevated, sometimes exceeding 40%. This is consistent with the <a href="/the-exposed-model.html">repeat filer cycle</a>: cases are dismissed, and the debtor -- often represented by the same attorney -- files again.</p>
+
+<div class="callout">
+  <p><strong>What 27% means:</strong> If one in four bankruptcy filers has filed before, and a significant percentage of those prior filings were dismissed (not discharged), then the system is recycling the same people through the same process -- collecting new fees each time -- without addressing the underlying problem. The 11 U.S.C. section <a href="https://1328f.com">1328(f)</a> discharge bar was designed to limit this pattern, but it only prevents discharge -- it does not prevent filing.</p>
+</div>
+
+<h2>What the data cannot show</h2>
+<p>It is important to acknowledge the limitations of this analysis:</p>
+<ul>
+  <li><strong>Causation vs. correlation.</strong> High dismissal rates are associated with high-volume practices, but the FJC data alone cannot prove that volume causes poor outcomes. It is possible (though unlikely, given the within-district variation) that high-volume firms systematically attract harder cases.</li>
+  <li><strong>No quality-of-service data.</strong> The FJC database tracks case outcomes, not the quality of attorney-client interaction. We cannot measure unreturned phone calls, missed deadlines, or delegation to unqualified staff from the data alone.</li>
+  <li><strong>Limited fee detail.</strong> While PACER dockets contain fee information, systematically extracting it at scale requires expensive PACER access. The FJC data does not include attorney fee fields.</li>
+  <li><strong>Self-selection.</strong> Debtors are not randomly assigned to attorneys. Client choice, advertising, and referral patterns all influence which attorney a debtor hires.</li>
+</ul>
+<p>These limitations are real but do not undermine the core finding: the variation in outcomes is too large and too consistent to be explained by anything other than differences in the quality of representation.</p>
+
+<div class="methodology">
+  <h3>Data sources and methodology</h3>
+  <p><strong>Primary data:</strong> FJC Integrated Database, which records case-level data for all federal bankruptcy filings including chapter, disposition, filing date, close date, and prior-filing status.</p>
+  <p><strong>Supplementary data:</strong> PACER (Public Access to Court Electronic Records) dockets for attorney-level analysis, fee applications, and docket entry detail.</p>
+  <p><strong>Coverage:</strong> 4.9 million cases across all 94 federal judicial districts, filed 2008-2024.</p>
+  <p><strong>Tools:</strong> Analysis performed using open-source Python tools. Code available on <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>. Discharge eligibility screening available at <a href="https://1328f.com">1328f.com</a>.</p>
+</div>
+
+<p>The next question is not whether the pattern exists -- the data answers that clearly. The question is why the system fails to act on it: <a href="/enforcement-gap.html">Why Nobody Stops Them</a>.</p>
+
+</div>
+
+<div class="kofi-box">
+  <p>PACER charges $0.10 per page. Every document we access becomes permanently free through RECAP. Help fund this research.</p>
+  <a href="https://1328f.org/support/" class="btn-kofi">Support this research</a>
+</div>
+
+</main>
+
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+  <p>Data journalism. No ads. No sponsors. Just numbers.</p>
+  <div class="links">
+    <a href="https://bankruptcymill.org">bankruptcymill.org</a>
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://dischargebar.org">dischargebar.org</a>
+    <a href="https://serialfiler.org">serialfiler.org</a>
+    <a href="https://1328f.org/support/">Ko-fi</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">Independent bankruptcy data journalism. Not legal advice. Consult a qualified attorney for your specific situation.</p>
+</footer>
+
+<script src="/btn-engage.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+{
+  "name": "Bankruptcy Mill Data",
+  "short_name": "bankruptcymill.com",
+  "description": "Data-driven investigation into the bankruptcy mill problem -- national statistics, economic models, and enforcement gaps",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0d1117",
+  "theme_color": "#0d1117",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}

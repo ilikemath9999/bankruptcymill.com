@@ -1,0 +1,326 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-053Z64N82F"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-053Z64N82F');
+</script>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>The Bankruptcy Mill Problem: By the Numbers | bankruptcymill.com</title>
+<meta name="description" content="Data-driven investigation into the bankruptcy mill problem. National statistics from 4.9 million federal cases reveal how high-volume firms produce measurably worse outcomes -- and why the system doesn't stop them.">
+<meta name="keywords" content="bankruptcy mill data, chapter 13 dismissal rate, bankruptcy attorney statistics, bankruptcy mill investigation, PACER data analysis, FJC bankruptcy data">
+<link rel="canonical" href="https://bankruptcymill.com/">
+
+<meta property="og:title" content="The Bankruptcy Mill Problem: By the Numbers">
+<meta property="og:description" content="National statistics from 4.9 million federal cases reveal how high-volume bankruptcy firms produce measurably worse outcomes.">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://bankruptcymill.com/">
+<meta property="og:site_name" content="bankruptcymill.com">
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="The Bankruptcy Mill Problem: By the Numbers">
+<meta name="twitter:description" content="National statistics from 4.9 million federal cases reveal how high-volume bankruptcy firms produce measurably worse outcomes.">
+
+<link rel="icon" type="image/svg+xml" href="/favicon.svg">
+<link rel="manifest" href="/manifest.json">
+<meta name="theme-color" content="#0d1117">
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "bankruptcymill.com",
+  "url": "https://bankruptcymill.com/",
+  "description": "Data-driven investigation into the bankruptcy mill problem. National statistics from 4.9 million federal cases across 94 districts."
+}
+</script>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How many bankruptcy cases are filed each year in the United States?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Approximately 400,000 to 500,000 bankruptcy cases are filed annually in federal courts across the United States, distributed across 94 judicial districts. The FJC Integrated Database tracks over 4.9 million cases filed since 2008."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What percentage of Chapter 13 bankruptcy cases are dismissed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The national dismissal rate for Chapter 13 cases is approximately 26%, but when all non-discharge outcomes are included -- voluntary dismissals, conversions, and cases closed without discharge -- the overall failure rate reaches 60-67%. Some individual attorneys have dismissal rates exceeding 85% while practicing in the same courts where other attorneys achieve rates below 15%."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a bankruptcy mill?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal individual attention. These firms often advertise no-money-down Chapter 13 filings, collect fees through the bankruptcy plan, and produce dismissal rates significantly above their district averages. The term has no formal legal definition, but the pattern is identifiable in federal court data."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Where does the bankruptcy mill data come from?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The data comes from two primary federal sources: the FJC Integrated Database (maintained by the Federal Judicial Center), which tracks case-level outcomes for all federal bankruptcy filings, and PACER (Public Access to Court Electronic Records), which provides docket-level detail. Together these sources cover 4.9 million cases across all 94 federal judicial districts."
+      }
+    }
+  ]
+}
+</script>
+
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+body{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',system-ui,sans-serif;background:#0d1117;color:#e5e5e5;min-height:100vh;line-height:1.6}
+a{color:#58a6ff;text-decoration:none}
+a:hover{text-decoration:underline}
+a:focus-visible,button:focus-visible{outline:2px solid #58a6ff;outline-offset:2px}
+
+.skip-link{position:absolute;left:-9999px;top:auto;width:1px;height:1px;overflow:hidden;z-index:9999;padding:1rem;background:#238636;color:#fff;font-weight:600;text-decoration:none}
+.skip-link:focus{position:fixed;top:10px;left:10px;width:auto;height:auto;overflow:visible}
+
+.nav{background:#010409;border-bottom:1px solid #21262d;padding:12px 24px;display:flex;align-items:center;gap:16px;flex-wrap:wrap}
+.nav .brand{color:#58a6ff;font-weight:700;font-size:16px;margin-right:auto;text-decoration:none}
+.nav .brand:hover{text-decoration:none;opacity:0.9}
+.nav-links{display:flex;gap:16px;align-items:center;flex-wrap:wrap}
+.nav-links a{color:#8b949e;font-size:14px}
+.nav-links a:hover{color:#f0f6fc;text-decoration:none}
+.nav-links a.active{color:#f0f6fc;font-weight:600}
+.hamburger{display:none;background:none;border:1px solid #21262d;color:#e5e5e5;font-size:1.2rem;padding:6px 12px;border-radius:4px;cursor:pointer}
+
+.hero{text-align:center;padding:72px 24px 48px}
+.hero .kicker{color:#58a6ff;font-size:14px;font-weight:600;text-transform:uppercase;letter-spacing:1.5px;margin-bottom:16px}
+.hero h1{font-size:36px;font-weight:700;color:#f0f6fc;margin-bottom:20px;max-width:800px;margin-left:auto;margin-right:auto}
+.hero .subtitle{color:#8b949e;font-size:18px;max-width:680px;margin:0 auto;line-height:1.7}
+
+.hero-stats{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;max-width:900px;margin:48px auto 0;padding:0 24px}
+.hero-stat{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:28px 16px;text-align:center}
+.hero-stat .num{font-size:32px;font-weight:700;color:#58a6ff}
+.hero-stat .label{font-size:13px;color:#8b949e;margin-top:8px;line-height:1.5}
+
+.section{max-width:800px;margin:0 auto;padding:48px 24px 0}
+.section h2{font-size:24px;color:#f0f6fc;margin-bottom:20px;padding-bottom:12px;border-bottom:1px solid #21262d}
+.section p{color:#c9d1d9;font-size:16px;line-height:1.8;margin-bottom:16px}
+.section p:last-child{margin-bottom:0}
+
+.thesis-card{background:#161b22;border:1px solid #58a6ff;border-radius:12px;padding:32px;max-width:800px;margin:48px auto 0;margin-left:auto;margin-right:auto}
+.thesis-card h2{font-size:20px;color:#f0f6fc;margin-bottom:16px;border:none;padding:0}
+.thesis-card p{color:#c9d1d9;font-size:15px;line-height:1.8;margin-bottom:14px}
+.thesis-card p:last-child{margin-bottom:0}
+.thesis-card .source{color:#8b949e;font-size:13px;margin-top:16px;padding-top:12px;border-top:1px solid #21262d}
+
+.cards-section{max-width:800px;margin:48px auto 0;padding:0 24px}
+.cards-section h2{font-size:22px;color:#f0f6fc;margin-bottom:20px;text-align:center}
+.page-cards{display:grid;grid-template-columns:1fr 1fr;gap:16px}
+.page-card{background:#161b22;border:1px solid #21262d;border-radius:12px;padding:24px;transition:border-color 0.2s;text-decoration:none;display:block}
+.page-card:hover{border-color:#58a6ff;text-decoration:none}
+.page-card h3{font-size:16px;color:#f0f6fc;margin-bottom:8px}
+.page-card p{font-size:13px;color:#8b949e;line-height:1.6;margin:0}
+.page-card .arrow{color:#58a6ff;font-size:13px;margin-top:10px;display:block}
+
+.faq-section{max-width:800px;margin:48px auto 0;padding:0 24px}
+.faq-section h2{font-size:22px;color:#f0f6fc;margin-bottom:20px;text-align:center}
+details{background:#161b22;border:1px solid #21262d;border-radius:8px;margin-bottom:12px;overflow:hidden}
+details[open]{border-color:#30363d}
+summary{padding:16px 20px;cursor:pointer;color:#f0f6fc;font-size:15px;font-weight:500;list-style:none;display:flex;align-items:center;justify-content:space-between;min-height:44px}
+summary::-webkit-details-marker{display:none}
+summary::after{content:'+';color:#58a6ff;font-size:18px;font-weight:300;flex-shrink:0;margin-left:12px}
+details[open] summary::after{content:'-'}
+details .answer{padding:0 20px 16px;color:#8b949e;font-size:14px;line-height:1.7}
+
+.kofi-box{background:#161b22;border:1px solid #238636;border-radius:6px;padding:1rem 1.5rem;text-align:center;max-width:600px;margin:3rem auto 1rem}
+.kofi-box p{color:#c9d1d9;margin:0 0 0.5rem;font-size:0.95rem}
+.kofi-box .btn-kofi{display:inline-block;background:#238636;color:#fff;padding:0.5rem 1.5rem;border-radius:6px;font-weight:600;font-size:0.9rem;text-decoration:none}
+.kofi-box .btn-kofi:hover{background:#2ea043;text-decoration:none}
+
+.network-footer{background:#010409;border-top:1px solid #21262d;padding:2rem 24px;text-align:center;margin-top:48px}
+.network-footer p{color:#8b949e;font-size:0.85rem;margin-bottom:0.5rem}
+.network-footer .links{display:flex;justify-content:center;flex-wrap:wrap;gap:1rem;margin-top:0.75rem}
+.network-footer .links a{color:#8b949e;font-size:0.85rem}
+.network-footer .links a:hover{color:#58a6ff}
+.network-footer .disclaimer{margin-top:1rem;font-size:0.75rem;color:#484f58}
+
+@media(max-width:768px){
+  .hero-stats{grid-template-columns:1fr 1fr}
+}
+@media(max-width:600px){
+  .hero h1{font-size:26px}
+  .hero{padding:40px 16px 28px}
+  .hero .subtitle{font-size:16px}
+  .hamburger{display:block}
+  .nav-links{display:none;width:100%;flex-direction:column;gap:0;padding-top:12px}
+  .nav-links.open{display:flex}
+  .nav-links a{display:block;padding:10px 0;border-top:1px solid #21262d;min-height:44px;line-height:1.6}
+  .hero-stats{grid-template-columns:1fr}
+  .hero-stat .num{font-size:26px}
+  .page-cards{grid-template-columns:1fr}
+  .section h2{font-size:20px}
+  .thesis-card{margin-left:24px;margin-right:24px}
+}
+</style>
+</head>
+<body>
+
+<a href="#main-content" class="skip-link">Skip to main content</a>
+
+<nav class="nav" role="navigation" aria-label="Site navigation">
+  <a href="/" class="brand">bankruptcymill.com</a>
+  <button class="hamburger" aria-label="Toggle navigation menu" onclick="document.querySelector('.nav-links').classList.toggle('open')">&#9776;</button>
+  <div class="nav-links">
+    <a href="/" class="active">The Data</a>
+    <a href="/the-exposed-model.html">The Model</a>
+    <a href="/by-the-numbers.html">Statistics</a>
+    <a href="/enforcement-gap.html">Enforcement Gap</a>
+    <a href="/cost-of-failure.html">Cost of Failure</a>
+    <a href="https://bankruptcymill.org">Consumer Guide</a>
+    <a href="https://1328f.com">Screener</a>
+  </div>
+</nav>
+
+<div class="hero">
+  <div class="kicker">Data Investigation</div>
+  <h1>The Bankruptcy Mill Problem: By the Numbers</h1>
+  <p class="subtitle">National federal court data reveals a system where high-volume firms produce measurably worse outcomes for vulnerable people -- and where nobody is tracking the results.</p>
+</div>
+
+<div class="hero-stats">
+  <div class="hero-stat">
+    <div class="num">4.9M</div>
+    <div class="label">Federal bankruptcy cases in the dataset</div>
+  </div>
+  <div class="hero-stat">
+    <div class="num">94</div>
+    <div class="label">Federal judicial districts analyzed</div>
+  </div>
+  <div class="hero-stat">
+    <div class="num">60-67%</div>
+    <div class="label">Estimated Ch. 13 cases that end without discharge</div>
+  </div>
+  <div class="hero-stat">
+    <div class="num">15% vs 85%</div>
+    <div class="label">Attorney dismissal rate range within the same courthouse</div>
+  </div>
+</div>
+
+<main id="main-content">
+
+<div class="thesis-card" style="margin-left:auto;margin-right:auto;max-width:800px;padding-left:32px;padding-right:32px">
+  <h2>The thesis</h2>
+  <p>Bankruptcy mills are not an urban legend. They are a measurable, data-visible pattern in federal court records. Certain firms consistently produce dismissal rates two to five times the court average -- meaning their clients pay thousands of dollars in fees, spend months or years in repayment plans, and walk away with nothing.</p>
+  <p>This is not a question of difficult cases or challenging client populations. When attorneys in the same courthouse, handling the same types of cases, under the same judge, produce wildly different outcomes -- that difference is attributable to the quality of representation.</p>
+  <p>The data exists to identify these patterns. The system simply does not use it.</p>
+  <div class="source">Source: FJC Integrated Database, public PACER records. Analysis covers cases filed 2008-2024.</div>
+</div>
+
+<div class="section">
+  <h2>What we found</h2>
+  <p>By analyzing 4.9 million federal bankruptcy cases across all 94 judicial districts, a clear pattern emerges. In Chapter 13 bankruptcy -- where individuals propose multi-year repayment plans -- the majority of cases never reach a successful discharge. The national dismissal rate sits around 26%, but that only counts cases formally dismissed by the court. Factor in voluntary dismissals, conversions, and cases closed without discharge, and the true failure rate climbs to 60-67%.</p>
+  <p>That national average conceals enormous variation. Within a single district, the gap between the best-performing and worst-performing attorneys can span 70 percentage points. Some attorneys consistently achieve discharge rates above 80%. Others, handling comparable caseloads in the same jurisdiction, see fewer than 15% of their clients reach discharge.</p>
+  <p>The attorneys with the highest failure rates tend to share characteristics: extremely high case volumes, advertising-driven client acquisition, fees collected primarily through the Chapter 13 plan, and minimal client contact after filing. These are the firms commonly called "bankruptcy mills."</p>
+</div>
+
+<div class="section">
+  <h2>Why this matters</h2>
+  <p>A failed Chapter 13 case is not a neutral outcome. The debtor has typically paid a filing fee, attorney fees, and months of plan payments -- all of which are gone. The automatic stay that protected them from creditors dissolves. Their credit report shows a bankruptcy filing without a discharge. And the 11 U.S.C. section 109(g) waiting period may bar them from refiling for 180 days.</p>
+  <p>When a business model profits from filing cases regardless of whether those cases succeed, the incentives are misaligned. The attorney is paid either way. The trustee collects a percentage either way. Only the debtor bears the full cost of failure.</p>
+  <p>The data shows this is happening at scale, across the country, and has been for years. The tools to detect it exist. What does not exist -- yet -- is the will to use them.</p>
+</div>
+
+<div class="cards-section">
+  <h2>Explore the investigation</h2>
+  <div class="page-cards">
+    <a href="/the-exposed-model.html" class="page-card">
+      <h3>How Mills Make Money</h3>
+      <p>The economic model: no-money-down advertising, fees through the plan, and why dismissal is not a financial problem for the attorney.</p>
+      <span class="arrow">Read the model &rarr;</span>
+    </a>
+    <a href="/by-the-numbers.html" class="page-card">
+      <h3>The Statistics</h3>
+      <p>National dismissal rates, attorney-level variation, caseload-to-outcome correlations, and what the FJC data actually shows.</p>
+      <span class="arrow">See the numbers &rarr;</span>
+    </a>
+    <a href="/enforcement-gap.html" class="page-card">
+      <h3>The Enforcement Gap</h3>
+      <p>Why UST oversight, bar associations, and judicial tools have failed to address a problem visible in their own data.</p>
+      <span class="arrow">Read about the gap &rarr;</span>
+    </a>
+    <a href="/cost-of-failure.html" class="page-card">
+      <h3>The Cost of Failure</h3>
+      <p>What a failed bankruptcy case actually costs -- in dollars, in time, in credit damage, and in the lost chance at a fresh start.</p>
+      <span class="arrow">See the real cost &rarr;</span>
+    </a>
+  </div>
+  <div style="text-align:center;margin-top:20px">
+    <a href="https://bankruptcymill.org" class="page-card" style="display:inline-block;max-width:400px;width:100%">
+      <h3>Consumer Guide (bankruptcymill.org)</h3>
+      <p>Warning signs, what to do if you're in a mill, and how to find a qualified attorney.</p>
+      <span class="arrow">Visit the consumer guide &rarr;</span>
+    </a>
+  </div>
+</div>
+
+<div class="faq-section">
+  <h2>Frequently asked questions</h2>
+
+  <details>
+    <summary>How many bankruptcy cases are filed each year in the United States?</summary>
+    <div class="answer">Approximately 400,000 to 500,000 bankruptcy cases are filed annually in federal courts across the United States, distributed across 94 judicial districts. The FJC Integrated Database tracks over 4.9 million cases filed since 2008.</div>
+  </details>
+
+  <details>
+    <summary>What percentage of Chapter 13 bankruptcy cases are dismissed?</summary>
+    <div class="answer">The national dismissal rate for Chapter 13 cases is approximately 26%, but that figure only counts formal dismissals. When all non-discharge outcomes are included -- voluntary dismissals, conversions, and cases closed without discharge -- the overall failure rate reaches 60-67%. Some individual attorneys have dismissal rates exceeding 85% while practicing in the same courts where other attorneys achieve rates below 15%.</div>
+  </details>
+
+  <details>
+    <summary>What is a bankruptcy mill?</summary>
+    <div class="answer">A bankruptcy mill is a high-volume law firm that processes large numbers of bankruptcy cases with minimal individual attention. These firms often advertise no-money-down Chapter 13 filings, collect fees through the bankruptcy plan, and produce dismissal rates significantly above their district averages. The term has no formal legal definition, but the pattern is identifiable in federal court data. For consumer-focused information about identifying mills, see <a href="https://bankruptcymill.org/warning-signs.html">bankruptcymill.org</a>.</div>
+  </details>
+
+  <details>
+    <summary>Where does this data come from?</summary>
+    <div class="answer">The data comes from two primary federal sources: the FJC Integrated Database (maintained by the Federal Judicial Center), which tracks case-level outcomes for all federal bankruptcy filings, and PACER (Public Access to Court Electronic Records), which provides docket-level detail. Together these sources cover 4.9 million cases across all 94 federal judicial districts.</div>
+  </details>
+</div>
+
+<div class="kofi-box">
+  <p>This investigation is independent and unfunded. No grants, no institutional backing. Donations fund PACER access fees and our goal of forming a 501(c)(3) nonprofit for bankruptcy court transparency.</p>
+  <a href="https://1328f.org/support/" class="btn-kofi">Support this research</a>
+</div>
+
+</main>
+
+<footer class="network-footer" role="contentinfo">
+  <p><strong>Part of the Bankruptcy Transparency Network</strong></p>
+  <p>Data journalism. No ads. No sponsors. Just numbers.</p>
+  <div class="links">
+    <a href="https://bankruptcymill.org">bankruptcymill.org</a>
+    <a href="https://1328f.com">1328f.com</a>
+    <a href="https://1328f.org">1328f.org</a>
+    <a href="https://automaticstay.org">automaticstay.org</a>
+    <a href="https://meanstest.org">meanstest.org</a>
+    <a href="https://341meeting.org">341meeting.org</a>
+    <a href="https://whatischapter7.com">whatischapter7.com</a>
+    <a href="https://dischargebar.org">dischargebar.org</a>
+    <a href="https://serialfiler.org">serialfiler.org</a>
+    <a href="https://1328f.org/support/">Ko-fi</a>
+    <a href="https://github.com/ilikemath9999/bankruptcy-discharge-screener">GitHub</a>
+  </div>
+  <p class="disclaimer">Independent bankruptcy data journalism. Not legal advice. Consult a qualified attorney for your specific situation.</p>
+</footer>
+
+<script src="/btn-engage.js"></script>
+</body>
+</html>
