@@ -28,6 +28,8 @@ Bankruptcy Mill Statistics
 
 National data from 4.9 million federal cases across 94 districts. The numbers tell a story that individual anecdotes cannot.
 
+Home›Bankruptcy Mills›Bankruptcy Mill Statistics
+
 4.9M
 
 Cases in the FJC Integrated Database (2008-2024)
@@ -42,15 +44,15 @@ National Ch. 13 formal dismissal rate
 
 National dismissal rates
 
-Chapter 13 bankruptcy has the highest failure rate of any bankruptcy chapter. The formal dismissal rate -- cases where the court enters an order of dismissal -- averages around 26% nationally. But that figure dramatically understates the problem.
+Chapter 13 bankruptcy has the highest failure rate of any bankruptcy chapter. The formal dismissal rate - cases where the court enters an order of dismissal - averages around 26% nationally. But that figure dramatically understates the problem.
 
-When you include all cases that close without a discharge -- voluntary dismissals, conversions to Chapter 7, and cases closed for other administrative reasons -- the true failure rate climbs to an estimated 60-67%. In other words, roughly two out of every three Chapter 13 cases filed in the United States do not result in the discharge the debtor was seeking when they filed.
+When you include all cases that close without a discharge - voluntary dismissals, conversions to Chapter 7, and cases closed for other administrative reasons - the true failure rate climbs to an estimated 60-67%. In other words, roughly two out of every three Chapter 13 cases filed in the United States do not result in the discharge the debtor was seeking when they filed.
 
 Why the headline number understates the problem: The FJC's formal "dismissal" count captures only cases dismissed by court order under 11 U.S.C. section 1307(c). It does not count voluntary dismissals under section 1307(b), conversions under section 1307(d), or cases closed without entry of discharge. Each of these represents a case where the debtor did not achieve the intended outcome.
 
 The attorney variation problem
 
-The most striking finding in the data is not the national average -- it is the range. Within a single federal judicial district, where all attorneys practice under the same local rules, before the same judges, with access to the same trustee, attorney-level dismissal rates vary enormously.
+The most striking finding in the data is not the national average - it is the range. Within a single federal judicial district, where all attorneys practice under the same local rules, before the same judges, with access to the same trustee, attorney-level dismissal rates vary enormously.
 
 Top-performing attorneys
 
@@ -66,35 +68,35 @@ High-volume mills
 
 This is not a small variation. In some districts, the gap between the best and worst attorneys exceeds 70 percentage points. An attorney with a 15% dismissal rate and an attorney with an 85% dismissal rate are practicing in the same courthouse, under the same rules, drawing from the same debtor population.
 
-When the variable is not the court, not the judge, not the local economy, and not the law -- the variable is the attorney.
+When the variable is not the court, not the judge, not the local economy, and not the law - the variable is the attorney.
 
 Caseload and outcome correlation
 
-Data analysis reveals a consistent pattern: as attorney caseload increases beyond a certain threshold, client outcomes tend to deteriorate. This is not a universal rule -- some high-volume attorneys maintain strong outcomes -- but the trend is clear and statistically significant.
+Data analysis reveals a consistent pattern: as attorney caseload increases beyond a certain threshold, client outcomes tend to deteriorate. This is not a universal rule - some high-volume attorneys maintain strong outcomes - but the trend is clear and statistically significant.
 
 Annual caseload tier
 Typical dismissal rate
 Notes
 
-1 -- 25 cases/year
-18 -- 28%
+1 - 25 cases/year
+18 - 28%
 Solo practitioners, often selective intake
 
-26 -- 75 cases/year
-22 -- 35%
+26 - 75 cases/year
+22 - 35%
 Established consumer practices
 
-76 -- 150 cases/year
-28 -- 45%
+76 - 150 cases/year
+28 - 45%
 High-volume firms, outcomes start diverging
 
-151 -- 300 cases/year
-40 -- 65%
-Mill territory -- volume exceeds capacity for individual attention
+151 - 300 cases/year
+40 - 65%
+Mill territory - volume exceeds capacity for individual attention
 
 300+ cases/year
-55 -- 85%+
-Extreme volume -- the majority of clients do not receive discharge
+55 - 85%+
+Extreme volume - the majority of clients do not receive discharge
 
 The inflection point varies by district and by firm structure, but the pattern is remarkably consistent across jurisdictions: once an attorney or firm is filing more cases than they can individually manage, the data shows it in the outcomes.
 
@@ -114,27 +116,27 @@ Dismissal rate in highest-rate districts
 
 Gap between best and worst districts
 
-Some of this variation reflects differences in local legal culture, trustee practices, judicial approach, and economic conditions. But within high-dismissal districts, you can almost always find individual attorneys who achieve discharge rates well above the district average -- proving that the local environment alone does not explain the poor outcomes.
+Some of this variation reflects differences in local legal culture, trustee practices, judicial approach, and economic conditions. But within high-dismissal districts, you can almost always find individual attorneys who achieve discharge rates well above the district average - proving that the local environment alone does not explain the poor outcomes.
 
 Fee patterns
 
 Attorney fee data, available through PACER docket review, reveals patterns consistent with the mill model:
 
-No-look fees are standard. Most districts have adopted presumptive fee amounts (typically $3,500 -- $5,000) that do not require itemized billing. This removes the connection between work performed and compensation received.
+No-look fees are standard. Most districts have adopted presumptive fee amounts (typically $3,500 - $5,000) that do not require itemized billing. This removes the connection between work performed and compensation received.
 
 Fee applications are rarely challenged. Despite the Court's authority under 11 U.S.C. section 329 and Fed. R. Bankr. P. 2017 to review fee arrangements, fee objections by trustees or the court are uncommon.
 
 Disgorgement is extremely rare. Even when cases are dismissed quickly and the attorney's work product is demonstrably inadequate, courts rarely order fee disgorgement under section 329(b).
 
-Total fees correlate with volume, not quality. The highest-earning bankruptcy attorneys in many districts are not the ones with the best outcomes -- they are the ones who file the most cases.
+Total fees correlate with volume, not quality. The highest-earning bankruptcy attorneys in many districts are not the ones with the best outcomes - they are the ones who file the most cases.
 
 The prior-filer signal
 
-FJC data includes a field indicating whether the debtor has previously filed for bankruptcy. National analysis shows that the prior-filer rate is approximately 27% -- meaning roughly one in four bankruptcy filers has filed at least once before.
+FJC data includes a field indicating whether the debtor has previously filed for bankruptcy. National analysis shows that the prior-filer rate is approximately 27% - meaning roughly one in four bankruptcy filers has filed at least once before.
 
-Among high-volume mills, the prior-filer rate is significantly elevated, sometimes exceeding 40%. This is consistent with the repeat filer cycle: cases are dismissed, and the debtor -- often represented by the same attorney -- files again.
+Among high-volume mills, the prior-filer rate is significantly elevated, sometimes exceeding 40%. This is consistent with the repeat filer cycle: cases are dismissed, and the debtor - often represented by the same attorney - files again.
 
-What 27% means: If one in four bankruptcy filers has filed before, and a significant percentage of those prior filings were dismissed (not discharged), then the system is recycling the same people through the same process -- collecting new fees each time -- without addressing the underlying problem. The 11 U.S.C. section 1328(f) discharge bar was designed to limit this pattern, but it only prevents discharge -- it does not prevent filing.
+What 27% means: If one in four bankruptcy filers has filed before, and a significant percentage of those prior filings were dismissed (not discharged), then the system is recycling the same people through the same process - collecting new fees each time - without addressing the underlying problem. The 11 U.S.C. section 1328(f) discharge bar was designed to limit this pattern, but it only prevents discharge - it does not prevent filing.
 
 What the data cannot show
 
@@ -160,7 +162,7 @@ Coverage: 4.9 million cases across all 94 federal judicial districts, filed 2008
 
 Tools: Analysis performed using open-source Python tools. Code available on GitHub. Discharge eligibility screening available at 1328f.com.
 
-The next question is not whether the pattern exists -- the data answers that clearly. The question is why the system fails to act on it: Why Nobody Stops Them.
+The next question is not whether the pattern exists - the data answers that clearly. The question is why the system fails to act on it: Why Nobody Stops Them.
 
 PACER charges $0.10 per page. Every document we access becomes permanently free through RECAP. Help fund this research.
 
@@ -179,10 +181,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -282,7 +284,7 @@ Sponsor this research
 
 ---
 
-## What a Failed Bankruptcy Case Really Costs -- Bankruptcy Mill
+## What a Failed Bankruptcy Case Really Costs - Bankruptcy Mill
 Source: https://bankruptcymill.com/cost-of-failure.html
 
 Skip to main content
@@ -304,9 +306,11 @@ What a Failed Bankruptcy Case Really Costs
 
 A dismissed Chapter 13 case is not a neutral outcome. It is a financial, legal, and personal catastrophe for the person who filed it.
 
+Home›Bankruptcy Mills›What a Failed Bankruptcy Case Really Costs
+
 The direct financial cost
 
-When a Chapter 13 case is dismissed, the debtor does not get their money back. Every dollar paid into the plan, every fee, every filing cost -- gone. Here is what a typical dismissed case looks like after 14 months:
+When a Chapter 13 case is dismissed, the debtor does not get their money back. Every dollar paid into the plan, every fee, every filing cost - gone. Here is what a typical dismissed case looks like after 14 months:
 
 Court filing fee
 $338
@@ -321,12 +325,12 @@ Credit counseling courses (2)
 $50
 
 Lost wages (hearings, meetings)
-$300 -- $600
+$300 - $600
 
 Total lost
-$10,888 -- $11,188
+$10,888 - $11,188
 
-That is the direct cost. The debtor paid over $10,000 and received nothing -- no discharge, no debt elimination, no fresh start. The debts remain. The creditors resume collection. And the debtor's credit report now shows a bankruptcy filing without a discharge -- often the worst possible credit outcome.
+That is the direct cost. The debtor paid over $10,000 and received nothing - no discharge, no debt elimination, no fresh start. The debts remain. The creditors resume collection. And the debtor's credit report now shows a bankruptcy filing without a discharge - often the worst possible credit outcome.
 
 Timeline of a failed case
 
@@ -338,19 +342,19 @@ Case filed
 
 Debtor pays filing fee ($338). Automatic stay takes effect, stopping creditor actions. First plan payment due within 30 days.
 
-Months 1 -- 3
+Months 1 - 3
 
 Plan payments begin
 
-Debtor makes payments to the trustee ($400 -- $700/month typical). Attorney fees begin being paid from plan funds. The debtor may never speak to their attorney again after the initial meeting.
+Debtor makes payments to the trustee ($400 - $700/month typical). Attorney fees begin being paid from plan funds. The debtor may never speak to their attorney again after the initial meeting.
 
-Month 4 -- 6
+Month 4 - 6
 
 Problems surface
 
 A creditor files an objection. The plan has errors. A payment is missed. The debtor calls their attorney's office and cannot reach anyone. Motions to dismiss are filed.
 
-Month 7 -- 12
+Month 7 - 12
 
 Drift toward dismissal
 
@@ -366,13 +370,13 @@ The comparison: failed case vs. case done right
 
 Successful Chapter 13 (60 months)
 
-$4,000 -- $5,000
+$4,000 - $5,000
 
 Attorney fee: $4,000 (paid through plan)
 
 Filing fee: $338
 
-Plan payments: 60 months -- but debts are discharged at the end
+Plan payments: 60 months - but debts are discharged at the end
 
 Result: Discharge entered. Remaining qualifying debts eliminated. Fresh start achieved. Credit rebuilding begins.
 
@@ -386,7 +390,7 @@ Attorney fee: $3,200 (partial, collected before dismissal)
 
 Filing fee: $338
 
-Plan payments: $7,000 paid -- all gone, no discharge
+Plan payments: $7,000 paid - all gone, no discharge
 
 Result: No discharge. All debts remain. Credit report shows bankruptcy without discharge. May face 180-day refiling bar.
 
@@ -424,15 +428,15 @@ During the months the case was pending, interest and penalties on debts may have
 
 The emotional toll
 
-The decision to file for bankruptcy is rarely made lightly. Most people who file have spent months or years trying to manage their debts through other means. By the time they walk into an attorney's office, they are often at the end of their rope -- financially and emotionally.
+The decision to file for bankruptcy is rarely made lightly. Most people who file have spent months or years trying to manage their debts through other means. By the time they walk into an attorney's office, they are often at the end of their rope - financially and emotionally.
 
 A dismissed case tells these people that the last resort also failed. The system they turned to for help took their money, gave them months of stress and uncertainty, and left them in a worse position than where they started.
 
-Research consistently shows that financial distress is correlated with depression, anxiety, relationship strain, and adverse health outcomes. A failed bankruptcy case does not cause these problems, but it compounds them -- adding the weight of wasted effort and lost hope to an already overwhelming situation.
+Research consistently shows that financial distress is correlated with depression, anxiety, relationship strain, and adverse health outcomes. A failed bankruptcy case does not cause these problems, but it compounds them - adding the weight of wasted effort and lost hope to an already overwhelming situation.
 
 The national scale
 
-If approximately 250,000 Chapter 13 cases are filed annually and 60-67% end without discharge, that means roughly 150,000 -- 167,000 people per year go through this experience. Even using the more conservative formal dismissal rate of 26%, that is 65,000 dismissed cases per year.
+If approximately 250,000 Chapter 13 cases are filed annually and 60-67% end without discharge, that means roughly 150,000 - 167,000 people per year go through this experience. Even using the more conservative formal dismissal rate of 26%, that is 65,000 dismissed cases per year.
 
 Conservative estimate of annual harm:
 
@@ -444,7 +448,7 @@ Not all of this is attributable to mills. But the data shows that mills drive a 
 
 The cost of doing it right
 
-The irony of the mill model is that quality representation is not dramatically more expensive. The difference between a $4,000 attorney fee that leads to discharge and a $4,000 attorney fee that leads to dismissal is not the dollar amount -- it is the work behind it.
+The irony of the mill model is that quality representation is not dramatically more expensive. The difference between a $4,000 attorney fee that leads to discharge and a $4,000 attorney fee that leads to dismissal is not the dollar amount - it is the work behind it.
 
 What a competent bankruptcy attorney provides that a mill does not:
 
@@ -483,10 +487,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -608,6 +612,8 @@ Why Nobody Stops Them
 
 The legal tools to address bankruptcy mills exist. The data to identify them exists. What does not exist is a system that connects the two.
 
+Home›Bankruptcy Mills›Why Nobody Stops Them
+
 The enforcement landscape
 
 Multiple institutions have the authority to address poor-quality bankruptcy representation. None of them do so systematically. The result is a patchwork of theoretical oversight that, in practice, allows mills to operate indefinitely.
@@ -618,7 +624,7 @@ Has authority to review fee applications and raise issues with the court. Focuse
 
 State Bar Associations
 
-Handle attorney discipline through complaints. Reactive by design -- they investigate complaints filed, not patterns in data. Most complaints are dismissed.
+Handle attorney discipline through complaints. Reactive by design - they investigate complaints filed, not patterns in data. Most complaints are dismissed.
 
 Bankruptcy Courts
 
@@ -632,23 +638,23 @@ Tools on the books, unused
 
 Congress and the courts have created specific statutory tools to address exactly the problems that mills create. These tools are largely unenforced.
 
-11 U.S.C. section 329 -- Debtor's transactions with attorneys
+11 U.S.C. section 329 - Debtor's transactions with attorneys
 
 Requires disclosure of all payments to the debtor's attorney. Authorizes the court to cancel an agreement or order the return of fees if compensation "exceeds the reasonable value of any such services."
 
 In practice: Fee applications are routinely approved without scrutiny. Disgorgement motions are rare. Most courts apply section 329 review only when a specific party raises a challenge.
 
-Fed. R. Bankr. P. 2017 -- Examination of debtor's transactions with debtor's attorney
+Fed. R. Bankr. P. 2017 - Examination of debtor's transactions with debtor's attorney
 
 Authorizes examination of fees "on the court's own initiative or on the motion of any party in interest."
 
 In practice: Courts almost never initiate review on their own motion. The phrase "on the court's own initiative" is dead letter in most districts.
 
-11 U.S.C. section 329(b) -- Fee disgorgement
+11 U.S.C. section 329(b) - Fee disgorgement
 
 The court may order the return of fees to the extent they exceed reasonable value, or cancel the fee agreement entirely.
 
-In practice: Disgorgement orders are exceptionally rare. Even when cases are dismissed within months and the attorney has performed minimal work, courts seldom order fees returned. The burden falls on the debtor -- often now unrepresented -- to challenge the fee.
+In practice: Disgorgement orders are exceptionally rare. Even when cases are dismissed within months and the attorney has performed minimal work, courts seldom order fees returned. The burden falls on the debtor - often now unrepresented - to challenge the fee.
 
 The UST gap
 
@@ -656,7 +662,7 @@ The United States Trustee Program (USTP) is the primary federal watchdog for ban
 
 In practice, UST offices are understaffed relative to case volume. Their enforcement priorities focus heavily on debtor fraud (means test compliance, unreported assets, abuse motions) rather than attorney quality. The USTP does not systematically track attorney outcome data, despite having access to the case information that would make this straightforward.
 
-A structural gap: The UST reviews individual cases but does not monitor attorney portfolios. An attorney who files 300 cases per year with an 80% dismissal rate will trigger no automatic review. Each of those 300 cases is evaluated in isolation, and the pattern -- visible only in aggregate -- goes undetected.
+A structural gap: The UST reviews individual cases but does not monitor attorney portfolios. An attorney who files 300 cases per year with an 80% dismissal rate will trigger no automatic review. Each of those 300 cases is evaluated in isolation, and the pattern - visible only in aggregate - goes undetected.
 
 Bar associations: reactive by design
 
@@ -676,11 +682,11 @@ Some bankruptcy attorneys are admitted in states where they do not primarily pra
 
 The BAPCPA paradox
 
-The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA) was the most significant bankruptcy reform in a generation. It added the means test, credit counseling requirements, the 11 U.S.C. section 1328(f) discharge bar, and numerous procedural hurdles -- all designed to prevent perceived abuses of the system.
+The Bankruptcy Abuse Prevention and Consumer Protection Act of 2005 (BAPCPA) was the most significant bankruptcy reform in a generation. It added the means test, credit counseling requirements, the 11 U.S.C. section 1328(f) discharge bar, and numerous procedural hurdles - all designed to prevent perceived abuses of the system.
 
 BAPCPA's unintended consequence: by making bankruptcy more complex, it made attorney representation more essential. And by making representation more essential, it increased the market for low-cost, high-volume firms that could process cases through the new procedural requirements at scale.
 
-The BAPCPA effect: Before BAPCPA, a relatively straightforward Chapter 13 filing could be handled with modest attorney involvement. After BAPCPA, the procedural requirements -- means test calculations, credit counseling certificates, section 521 document production deadlines -- demanded more from attorneys. For mills, these requirements became checkboxes to process rather than substantive client protections. For clients, they became additional points of failure in cases already receiving minimal attention.
+The BAPCPA effect: Before BAPCPA, a relatively straightforward Chapter 13 filing could be handled with modest attorney involvement. After BAPCPA, the procedural requirements - means test calculations, credit counseling certificates, section 521 document production deadlines - demanded more from attorneys. For mills, these requirements became checkboxes to process rather than substantive client protections. For clients, they became additional points of failure in cases already receiving minimal attention.
 
 No mandatory outcome reporting
 
@@ -708,7 +714,7 @@ Automatic fee review triggers. When an attorney's dismissal rate exceeds the dis
 
 Prior-filer alerts. When a debtor is represented by the same attorney who handled their prior dismissed case, the court could flag the filing for additional scrutiny.
 
-Public data access. Making attorney outcome data freely available would allow consumers to evaluate attorneys before hiring them -- the same way hospital quality data allows patients to choose providers.
+Public data access. Making attorney outcome data freely available would allow consumers to evaluate attorneys before hiring them - the same way hospital quality data allows patients to choose providers.
 
 None of these solutions require new legislation. They require only the will to use data that already exists.
 
@@ -735,10 +741,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -838,7 +844,7 @@ Sponsor this research
 
 ---
 
-## What Is a Bankruptcy Mill? -- Warning Signs [2026]
+## What Is a Bankruptcy Mill? - Warning Signs [2026]
 Source: https://bankruptcymill.com/
 
 🌐 Esta pagina esta disponible en Espanol
@@ -856,13 +862,13 @@ Cost of Failure
 Consumer Guide
 Screener
 
-Part of the Open Bankruptcy Project -- 161+ free domains, 115,000+ pages, $0 cost
+Part of the Open Bankruptcy Project - 161+ free domains, 115,000+ pages, $0 cost
 
 Data Investigation
 
 What Is a Bankruptcy Mill?
 
-National federal court data reveals a system where high-volume firms produce measurably worse outcomes for vulnerable people -- and where nobody is tracking the results.
+National federal court data reveals a system where high-volume firms produce measurably worse outcomes for vulnerable people - and where nobody is tracking the results.
 
 4.9M
 
@@ -882,9 +888,9 @@ Attorney dismissal rate range within the same courthouse
 
 The thesis
 
-Bankruptcy mills are not an urban legend. They are a measurable, data-visible pattern in federal court records. Certain firms consistently produce dismissal rates two to five times the court average -- meaning their clients pay thousands of dollars in fees, spend months or years in repayment plans, and walk away with nothing.
+Bankruptcy mills are not an urban legend. They are a measurable, data-visible pattern in federal court records. Certain firms consistently produce dismissal rates two to five times the court average - meaning their clients pay thousands of dollars in fees, spend months or years in repayment plans, and walk away with nothing.
 
-This is not a question of difficult cases or challenging client populations. When attorneys in the same courthouse, handling the same types of cases, under the same judge, produce wildly different outcomes -- that difference is attributable to the quality of representation.
+This is not a question of difficult cases or challenging client populations. When attorneys in the same courthouse, handling the same types of cases, under the same judge, produce wildly different outcomes - that difference is attributable to the quality of representation.
 
 The data exists to identify these patterns. The system simply does not use it.
 
@@ -892,7 +898,7 @@ Source: FJC Integrated Database, public PACER records. Analysis covers cases fil
 
 What we found
 
-By analyzing 4.9 million federal bankruptcy cases across all 94 judicial districts, a clear pattern emerges. In Chapter 13 bankruptcy -- where individuals propose multi-year repayment plans -- the majority of cases never reach a successful discharge. The national dismissal rate sits around 26%, but that only counts cases formally dismissed by the court. Factor in voluntary dismissals, conversions, and cases closed without discharge, and the true failure rate climbs to 60-67%.
+By analyzing 4.9 million federal bankruptcy cases across all 94 judicial districts, a clear pattern emerges. In Chapter 13 bankruptcy - where individuals propose multi-year repayment plans - the majority of cases never reach a successful discharge. The national dismissal rate sits around 26%, but that only counts cases formally dismissed by the court. Factor in voluntary dismissals, conversions, and cases closed without discharge, and the true failure rate climbs to 60-67%.
 
 That national average conceals enormous variation. Within a single district, the gap between the best-performing and worst-performing attorneys can span 70 percentage points. Some attorneys consistently achieve discharge rates above 80%. Others, handling comparable caseloads in the same jurisdiction, see fewer than 15% of their clients reach discharge.
 
@@ -900,13 +906,13 @@ The attorneys with the highest failure rates tend to share characteristics: extr
 
 Why this matters
 
-A failed Chapter 13 case is not a neutral outcome. The debtor has typically paid a filing fee, attorney fees, and months of plan payments -- all of which are gone. The automatic stay protection in bankruptcy that protected them from creditors dissolves. Their credit report shows a bankruptcy filing without a discharge. And the 11 U.S.C. section 109(g) waiting period may bar them from refiling for 180 days.
+A failed Chapter 13 case is not a neutral outcome. The debtor has typically paid a filing fee, attorney fees, and months of plan payments - all of which are gone. The automatic stay protection in bankruptcy that protected them from creditors dissolves. Their credit report shows a bankruptcy filing without a discharge. And the 11 U.S.C. section 109(g) waiting period may bar them from refiling for 180 days.
 
 When a business model profits from filing cases regardless of whether those cases succeed, the incentives are misaligned. The attorney is paid either way. The trustee collects a percentage either way. Only the debtor bears the full cost of failure.
 
 Clients of high-volume practices may have grounds for a bankruptcy malpractice claim if their case was mishandled due to inadequate attention or missed deadlines.
 
-The data shows this is happening at scale, across the country, and has been for years. The tools to detect it exist. What does not exist -- yet -- is the will to use them.
+The data shows this is happening at scale, across the country, and has been for years. The tools to detect it exist. What does not exist - yet - is the will to use them.
 
 Explore the investigation
 
@@ -930,7 +936,7 @@ Read about the gap →
 
 The Cost of Failure
 
-What a failed bankruptcy case actually costs -- in dollars, in time, in credit damage, and in the lost chance at a fresh start.
+What a failed bankruptcy case actually costs - in dollars, in time, in credit damage, and in the lost chance at a fresh start.
 
 See the real cost →
 
@@ -948,7 +954,7 @@ Approximately 400,000 to 500,000 bankruptcy cases are filed annually in federal 
 
 What percentage of Chapter 13 bankruptcy cases are dismissed?
 
-The national dismissal rate for Chapter 13 cases is approximately 26%, but that figure only counts formal dismissals. When all non-discharge outcomes are included -- voluntary dismissals, conversions, and cases closed without discharge -- the overall failure rate reaches 60-67%. Some individual attorneys have dismissal rates exceeding 85% while practicing in the same courts where other attorneys achieve rates below 15%.
+The national dismissal rate for Chapter 13 cases is approximately 26%, but that figure only counts formal dismissals. When all non-discharge outcomes are included - voluntary dismissals, conversions, and cases closed without discharge - the overall failure rate reaches 60-67%. Some individual attorneys have dismissal rates exceeding 85% while practicing in the same courts where other attorneys achieve rates below 15%.
 
 What is a bankruptcy mill?
 
@@ -992,10 +998,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -1040,7 +1046,7 @@ automaticstay.org →
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -1228,6 +1234,8 @@ What to Do
 Enforcement Gap
 Cost of Failure
 
+Home›Bankruptcy Mills›How to Protect Yourself from a Bankruptcy Mill
+
 How to Protect Yourself from a Bankruptcy Mill
 
 What to verify before hiring, and how to check outcomes using public data
@@ -1313,10 +1321,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -1393,7 +1401,7 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
-## Bankruptcy Attorney Red Flags: Detailed Checklist -- Bankruptcy Mill
+## Bankruptcy Attorney Red Flags: Detailed Checklist - Bankruptcy Mill
 Source: https://bankruptcymill.com/red-flags.html
 
 Skip to main content
@@ -1410,9 +1418,11 @@ What to Do
 Enforcement Gap
 Cost of Failure
 
+Home›Bankruptcy Mills›Bankruptcy Attorney Red Flags
+
 Bankruptcy Attorney Red Flags
 
-A detailed checklist of warning signs -- during the consultation and after hiring
+A detailed checklist of warning signs - during the consultation and after hiring
 
 During the Consultation
 
@@ -1437,7 +1447,7 @@ If the consultation is with a salesperson or intake staff and the attorney will 
 After You Hire
 
 Errors in your petition or schedules.
-Wrong names, incorrect addresses, inaccurate asset values, missing debts -- these are signs of careless, template-based preparation. Errors in bankruptcy filings can have serious consequences, including denied discharge or trustee objections.
+Wrong names, incorrect addresses, inaccurate asset values, missing debts - these are signs of careless, template-based preparation. Errors in bankruptcy filings can have serious consequences, including denied discharge or trustee objections.
 
 You cannot reach your attorney.
 Calls go unreturned for days. You only speak with staff. Your attorney is always "unavailable." This pattern suggests the firm has more cases than it can handle.
@@ -1449,15 +1459,15 @@ Your attorney cannot explain your case strategy.
 If asked "what is the plan for my case?", your attorney should be able to give a clear, specific answer. Vague responses suggest they have not thought about your case individually.
 
 The firm is handling your case identically to everyone else's.
-Bankruptcy cases are not all the same. Your exemptions, your plan payments, your treatment of secured debts -- these should be tailored to your specific situation, not copy-pasted from a template.
+Bankruptcy cases are not all the same. Your exemptions, your plan payments, your treatment of secured debts - these should be tailored to your specific situation, not copy-pasted from a template.
 
 What Good Representation Looks Like
 
 The consultation is thorough and unhurried.
-The attorney asks detailed questions, listens to your answers, and gives you specific advice about your situation -- not generic information about bankruptcy.
+The attorney asks detailed questions, listens to your answers, and gives you specific advice about your situation - not generic information about bankruptcy.
 
 The attorney explains multiple options.
-Chapter 7, Chapter 13, alternatives to bankruptcy, timing considerations -- a good attorney helps you make an informed decision, not a quick one.
+Chapter 7, Chapter 13, alternatives to bankruptcy, timing considerations - a good attorney helps you make an informed decision, not a quick one.
 
 You review everything before filing.
 You see your petition, schedules, and plan before they are submitted. Errors are caught and corrected.
@@ -1500,10 +1510,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -1602,9 +1612,11 @@ How Bankruptcy Mills Make Money
 
 The mill model works because attorney compensation is structurally disconnected from client outcomes. Understanding the economics explains why the pattern persists.
 
+Home›Bankruptcy Mills›How Bankruptcy Mills Make Money
+
 The core problem: fees without accountability
 
-In most professional services, poor outcomes lead to lost clients and revenue. Bankruptcy mills operate under a different economic logic. Because attorney fees in Chapter 13 are typically paid through the repayment plan -- not upfront by the client -- the attorney gets paid from trustee disbursements regardless of whether the case reaches discharge.
+In most professional services, poor outcomes lead to lost clients and revenue. Bankruptcy mills operate under a different economic logic. Because attorney fees in Chapter 13 are typically paid through the repayment plan - not upfront by the client - the attorney gets paid from trustee disbursements regardless of whether the case reaches discharge.
 
 If the case is dismissed after 12 months of plan payments, the attorney has already collected partial fees. The client has lost everything. The attorney moves on to the next case.
 
@@ -1640,7 +1652,7 @@ Step 4: Fee collection
 
 Attorney fees paid through the plan
 
-Under 11 U.S.C. section 330, attorney fees are administrative expenses. The trustee pays them from plan payments -- often before unsecured creditors receive anything.
+Under 11 U.S.C. section 330, attorney fees are administrative expenses. The trustee pays them from plan payments - often before unsecured creditors receive anything.
 
 ↓
 
@@ -1654,7 +1666,7 @@ Motions to dismiss go unopposed. Plan modifications are not filed. Client calls 
 
 Step 6: Dismissal
 
-Case dismissed -- client loses everything
+Case dismissed - client loses everything
 
 The attorney keeps the fees earned. The client loses filing fees, plan payments, and the automatic stay. No refund.
 
@@ -1671,28 +1683,28 @@ $338
 Debtor (can be paid in installments)
 
 Attorney fees (no-look)
-$3,500 -- $5,000
+$3,500 - $5,000
 Paid through the plan by the trustee
 
 Credit counseling
-$25 -- $50
+$25 - $50
 Debtor pays directly
 
 Trustee percentage
 ~10% of disbursements
 Deducted from plan payments
 
-In many districts, courts approve a "no-look" fee -- a standard attorney fee amount that does not require itemized time records. This streamlines legitimate practices but also removes a layer of accountability. An attorney who spends 3 hours on a case collects the same fee as one who spends 30 hours.
+In many districts, courts approve a "no-look" fee - a standard attorney fee amount that does not require itemized time records. This streamlines legitimate practices but also removes a layer of accountability. An attorney who spends 3 hours on a case collects the same fee as one who spends 30 hours.
 
 Why dismissal does not hurt the attorney
 
-This is the critical insight: when a Chapter 13 case is dismissed, the attorney does not forfeit fees already paid. Under the priority structure of 11 U.S.C. section 507, administrative expenses -- including attorney fees -- are paid ahead of general unsecured creditors. If the debtor has made 12 months of plan payments, the attorney may have already received most or all of the approved fee.
+This is the critical insight: when a Chapter 13 case is dismissed, the attorney does not forfeit fees already paid. Under the priority structure of 11 U.S.C. section 507, administrative expenses - including attorney fees - are paid ahead of general unsecured creditors. If the debtor has made 12 months of plan payments, the attorney may have already received most or all of the approved fee.
 
 The math of a dismissed case:
 
 A debtor files Chapter 13. The plan proposes $500/month for 60 months. The attorney's approved fee is $4,000. After 14 months, the case is dismissed.
 
-The debtor has paid $7,000 into the plan. The attorney has received approximately $3,200 in fees. The trustee has received approximately $700. Unsecured creditors may have received a small distribution. The debtor has nothing to show for it -- no discharge, no debt relief, $7,000 gone.
+The debtor has paid $7,000 into the plan. The attorney has received approximately $3,200 in fees. The trustee has received approximately $700. Unsecured creditors may have received a small distribution. The debtor has nothing to show for it - no discharge, no debt relief, $7,000 gone.
 
 The attorney can now represent this same person in a new filing, collecting a new set of fees.
 
@@ -1705,28 +1717,28 @@ Quality practice
 Mill model
 
 Annual filings
-30 -- 60
-200 -- 500+
+30 - 60
+200 - 500+
 
 Avg. fee per case
 $4,000
 $4,000
 
 Discharge rate
-60 -- 80%
-15 -- 35%
+60 - 80%
+15 - 35%
 
 Fee collected per case
 $4,000 (full, case completes)
-$2,500 -- $3,500 (partial, before dismissal)
+$2,500 - $3,500 (partial, before dismissal)
 
 Gross revenue
-$120K -- $240K
-$500K -- $1.75M
+$120K - $240K
+$500K - $1.75M
 
 Hours per case
-15 -- 30
-2 -- 5
+15 - 30
+2 - 5
 
 Staff-to-attorney ratio
 1:1 or 2:1
@@ -1742,9 +1754,9 @@ Compare this to an attorney who collects $1,500 upfront: that attorney has an in
 
 The repeat filer cycle
 
-Dismissal is not always the end of the relationship. Some mill operations routinely refile cases after dismissal -- sometimes multiple times. Each refiling generates a new set of fees. The debtor, desperate for the automatic stay protection that comes with filing, agrees to try again.
+Dismissal is not always the end of the relationship. Some mill operations routinely refile cases after dismissal - sometimes multiple times. Each refiling generates a new set of fees. The debtor, desperate for the automatic stay protection that comes with filing, agrees to try again.
 
-Federal court data shows patterns of serial filing concentrated among high-volume practitioners. Some debtors appear in the system three, four, or five times -- often represented by the same attorney each time. Each filing costs money. Each dismissal leaves the debtor worse off. The 11 U.S.C. section 109(g) waiting periods and 11 U.S.C. section 362(c)(3)-(4) stay limitations were enacted specifically to address this pattern, but they penalize the debtor, not the attorney. For more on serial filing restrictions, see serialfiler.org.
+Federal court data shows patterns of serial filing concentrated among high-volume practitioners. Some debtors appear in the system three, four, or five times - often represented by the same attorney each time. Each filing costs money. Each dismissal leaves the debtor worse off. The 11 U.S.C. section 109(g) waiting periods and 11 U.S.C. section 362(c)(3)-(4) stay limitations were enacted specifically to address this pattern, but they penalize the debtor, not the attorney. For more on serial filing restrictions, see serialfiler.org.
 
 The perverse incentive structure
 
@@ -1758,15 +1770,15 @@ The court collects filing fees at the time of filing
 
 Creditors receive partial payments during the plan period
 
-The only party who bears the full cost of a dismissed case is the debtor -- the person the system was designed to help.
+The only party who bears the full cost of a dismissed case is the debtor - the person the system was designed to help.
 
-A question of incentives: If every professional in the system is compensated regardless of client outcome, what structural force drives quality representation? The answer, visible in the data, is that nothing does -- at least not systematically. Quality depends entirely on individual attorney ethics, not system design.
+A question of incentives: If every professional in the system is compensated regardless of client outcome, what structural force drives quality representation? The answer, visible in the data, is that nothing does - at least not systematically. Quality depends entirely on individual attorney ethics, not system design.
 
 The next section examines what the data actually shows when you measure attorney-level outcomes across 94 districts: Bankruptcy Mill Statistics.
 
 For consumer-focused information about how to spot these patterns and what to do, see Warning Signs on bankruptcymill.org.
 
-Independent research -- no institutional backing. Help fund PACER access fees and open-source data tools.
+Independent research - no institutional backing. Help fund PACER access fees and open-source data tools.
 
 Support this research
 
@@ -1783,10 +1795,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -1903,6 +1915,8 @@ What to Do
 Enforcement Gap
 Cost of Failure
 
+Home›Bankruptcy Mills›Already Hired a Bankruptcy Mill? Here Are Your Options
+
 Already Hired a Bankruptcy Mill? Here Are Your Options
 
 You are not stuck. You have rights, and the system provides remedies.
@@ -1913,15 +1927,15 @@ Option 1: Fire Your Attorney
 
 You can change attorneys at any time
 
-You have the right to fire your bankruptcy attorney. In an active case, this is done through a motion to substitute counsel -- your new attorney files it, and the court approves the transition. You may also proceed pro se (without an attorney) if necessary, though this is risky in Chapter 13.
+You have the right to fire your bankruptcy attorney. In an active case, this is done through a motion to substitute counsel - your new attorney files it, and the court approves the transition. You may also proceed pro se (without an attorney) if necessary, though this is risky in Chapter 13.
 
 You may still owe your former attorney for work already performed. But you are not required to continue paying for inadequate representation.
 
 Option 2: Request Fee Review
 
-11 U.S.C. Section 329 -- Fee disgorgement
+11 U.S.C. Section 329 - Fee disgorgement
 
-Bankruptcy courts have broad authority to review attorney fees under Section 329. If the court finds that fees are excessive or that the attorney received compensation in connection with the case that exceeds the reasonable value of services, the court can order the attorney to return fees -- a process called disgorgement.
+Bankruptcy courts have broad authority to review attorney fees under Section 329. If the court finds that fees are excessive or that the attorney received compensation in connection with the case that exceeds the reasonable value of services, the court can order the attorney to return fees - a process called disgorgement.
 
 The court, the U.S. Trustee, or any party in interest can raise the issue. You can file a motion requesting fee review yourself. Learn more at section329.org.
 
@@ -1947,7 +1961,7 @@ Option 4: Malpractice Claim
 
 When negligence causes harm
 
-If your attorney's negligence directly caused your case to be dismissed -- and that dismissal resulted in concrete financial harm (lost plan payments, lost automatic stay protection, inability to refile) -- you may have a legal malpractice claim. This requires proving that the attorney breached their duty of care and that the breach caused you measurable damages.
+If your attorney's negligence directly caused your case to be dismissed - and that dismissal resulted in concrete financial harm (lost plan payments, lost automatic stay protection, inability to refile) - you may have a legal malpractice claim. This requires proving that the attorney breached their duty of care and that the breach caused you measurable damages.
 
 Malpractice claims require a separate attorney. Many malpractice attorneys work on contingency (no upfront cost). Learn more at bankruptcymalpractice.org.
 
@@ -2012,10 +2026,10 @@ Further Reading & Resources
 Authority sources for deeper research on bankruptcy malpractice and mill attorneys:
 
 11 U.S.C. Section 329
-Cornell LII -- attorney fee review
+Cornell LII - attorney fee review
 
 11 U.S.C. Sections 526-528
-Cornell LII -- debt relief agency rules
+Cornell LII - debt relief agency rules
 
 U.S. Trustee Program
 DOJ attorney oversight
@@ -2092,10 +2106,82 @@ This site provides general information, not legal advice. Consult a qualified at
 
 ---
 
+## Privacy Policy - bankruptcymill.com
+Source: https://bankruptcymill.com/privacy.html
+
+bankruptcymill.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
+
+---
+
 ## Additional FAQ Pages
 
 
-### How do I know if my bankruptcy lawyer is a mill? -- What Is a Bankruptcy Mill
+### How do I know if my bankruptcy lawyer is a mill? - What Is a Bankruptcy Mill
 Source: https://bankruptcymill.com/paa/how-do-i-know-if-my-bankruptcy-lawyer-is-a-mill.html
 
 Skip to content
@@ -2131,7 +2217,7 @@ After Hiring
 
 Your attorney does not attend the 341 meeting or sends a different attorney you have never met
 
-Errors in your petition -- wrong address, wrong debts, incorrect income figures
+Errors in your petition - wrong address, wrong debts, incorrect income figures
 
 You cannot get your attorney on the phone and always speak to staff
 
@@ -2141,7 +2227,7 @@ Your case is dismissed or you lose property that should have been protected
 
 How to Check
 
-Search the firm name on PACER (Public Access to Court Electronic Records) to see how many cases they file. Check your state bar association for disciplinary history. Read online reviews carefully -- look for patterns, not just individual complaints.
+Search the firm name on PACER (Public Access to Court Electronic Records) to see how many cases they file. Check your state bar association for disciplinary history. Read online reviews carefully - look for patterns, not just individual complaints.
 
 Related Guides
 
@@ -2165,7 +2251,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### Common Questions -- What Is a Bankruptcy Mill
+### Common Questions - What Is a Bankruptcy Mill
 Source: https://bankruptcymill.com/paa/index.html
 
 bankruptcymill.com
@@ -2190,7 +2276,7 @@ openbankruptcyproject.org
 
 Free bankruptcy education. Not legal advice. Consult a qualified attorney for your specific situation.
 
-### What is a bankruptcy mill? -- What Is a Bankruptcy Mill
+### What is a bankruptcy mill? - What Is a Bankruptcy Mill
 Source: https://bankruptcymill.com/paa/what-is-a-bankruptcy-mill.html
 
 Skip to content
@@ -2230,7 +2316,7 @@ The attorney who signs your petition may not attend your 341 meeting or respond 
 
 Why It Matters
 
-A poorly prepared bankruptcy filing can result in case dismissal, loss of assets that should have been exempt, failure to discharge debts that could have been eliminated, or worse -- allegations of fraud due to incorrect information. The consequences fall on you, not the mill attorney.
+A poorly prepared bankruptcy filing can result in case dismissal, loss of assets that should have been exempt, failure to discharge debts that could have been eliminated, or worse - allegations of fraud due to incorrect information. The consequences fall on you, not the mill attorney.
 
 The Scale of the Problem
 
@@ -2258,7 +2344,7 @@ A project of the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination p
 
 Privacy | Terms
 
-### What should I do if I was scammed by a bankruptcy mill? -- What Is a Bankruptcy Mill
+### What should I do if I was scammed by a bankruptcy mill? - What Is a Bankruptcy Mill
 Source: https://bankruptcymill.com/paa/what-should-i-do-if-i-was-scammed-by-a-bankruptcy-mill.html
 
 Skip to content
@@ -2274,7 +2360,7 @@ People Also Ask
 
 What should I do if I was scammed by a bankruptcy mill?
 
-File a complaint with your state bar association, which can investigate and discipline the attorney. You may also file a complaint with the U.S. Trustee, report the firm to your state attorney general, and consult a legal malpractice attorney. Document everything -- missed deadlines, errors in filings, and lack of communication.
+File a complaint with your state bar association, which can investigate and discipline the attorney. You may also file a complaint with the U.S. Trustee, report the firm to your state attorney general, and consult a legal malpractice attorney. Document everything - missed deadlines, errors in filings, and lack of communication.
 
 If you believe your bankruptcy attorney provided deficient representation, you have several avenues for recourse.
 
@@ -2302,7 +2388,7 @@ If you suffered financial harm due to your attorney's negligence (lost property,
 
 Fee Disgorgement
 
-Under 11 U.S.C. Section 329, the bankruptcy court can order an attorney to return fees if compensation was excessive. Any party in interest -- including you -- can request that the court review fees paid to your bankruptcy attorney.
+Under 11 U.S.C. Section 329, the bankruptcy court can order an attorney to return fees if compensation was excessive. Any party in interest - including you - can request that the court review fees paid to your bankruptcy attorney.
 
 Related Guides
 
